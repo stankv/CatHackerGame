@@ -29,7 +29,7 @@ public class TelegramBotContent {
     public static final String STEP_3_TEXT = """
             *Кот Айтишник, уровень второй.*
             Неожиданно, из-за угла выполз жужжащий робот-пылесос. Настало время мести!
-            Виполни второе задание и взломай его!
+            Выполни второе задание и взломай его!
             """;
 
     public static final String STEP_4_TEXT = """
